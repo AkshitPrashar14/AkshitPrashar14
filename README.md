@@ -1,4 +1,3 @@
-````markdown
 <!-- ===================================================== -->
 <!--           🚀 MISSION CONTROL README                   -->
 <!-- ===================================================== -->
@@ -479,4 +478,3 @@ See you on the next mission.
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:03045E,30:0077B6,60:00B4D8,100:90E0EF"/>
 
 </p>
-````
