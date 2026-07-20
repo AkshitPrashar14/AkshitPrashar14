@@ -1,268 +1,326 @@
+````markdown
 <!-- ========================================================= -->
-<!--                    RPG GITHUB PROFILE                     -->
+<!--                TERMINAL / HACKER PROFILE                  -->
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Akshit%20Prashar&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20⚔️%20AI%20Explorer%20🤖%20Data%20Engineer%20📊&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=%24%20whoami&fontAlignY=40&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=⚔️+Welcome+Adventurer!;Java+Backend+Developer;AI+%26+Machine+Learning;Building+Real+World+Projects;Grinding+DSA+Everyday;Always+Leveling+Up+🚀" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Developer+Environment...;Loading+Java+Backend...;Loading+AI+Modules...;Loading+Docker+Containers...;System+Ready+✔"/>
 </p>
 
 ---
 
-# ⚔️ CHARACTER PROFILE
+# 🖥 Terminal
 
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```bash
+Last login: Today
 
-🧑 Name: Akshit Prashar
+akshit@github:~$ whoami
 
-🎖 Class: Backend Mage
+Akshit Prashar
 
-🏹 Guild: Open Source
+akshit@github:~$ cat role.txt
 
-🌍 Region: India
+Computer Science Student
 
-⚡ Level: 21
+Backend Developer
 
-❤️ Health: ██████████ 100%
+AI & Machine Learning Enthusiast
 
-☕ Mana: ██████████ Coffee Powered
+Data Engineering Learner
 
-🎯 Current Quest:
-Become a World-Class Software Engineer
+akshit@github:~$ echo $MISSION
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Become a world-class Software Engineer.
 ```
 
 ---
 
-# 🎒 INVENTORY
+# 📂 ls -la skills/
 
-| Weapon | Status |
-|----------|--------|
-| ☕ Coffee | Equipped |
-| 💻 VS Code | Equipped |
-| 🧠 Curiosity | Legendary |
-| 🐛 Bugs | Infinite Spawn |
-| 🚀 GitHub | Active |
+```text
+backend/
 
----
+AI/
 
-# 🛡️ SKILLS
+Docker/
 
-## Languages
+Kubernetes/
 
-<p>
+Java/
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css"/>
+Python/
 
-</p>
+NodeJS/
 
----
+Git/
 
-## Backend
+Linux/
 
-<p>
+SQL/
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+MongoDB/
 
-</p>
+SystemDesign/
+```
 
 ---
 
-## Database
+# 📄 cat about.md
 
-<p>
+```markdown
+Hi 👋
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+I'm Akshit.
 
-</p>
+I enjoy building scalable backend systems,
+training AI models,
+learning distributed systems,
+and solving challenging problems.
+
+Current Focus:
+
+• Backend Development
+
+• AI Mock Interview Platform
+
+• Data Engineering
+
+• DevOps
+
+• System Design
+```
 
 ---
 
-## DevOps
+# ⚙ apt list --installed
 
-<p>
+```text
+✔ Java
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux"/>
+✔ Python
 
-</p>
+✔ C++
 
----
+✔ JavaScript
 
-## AI Arsenal
+✔ HTML
 
-<p>
+✔ CSS
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+✔ Spring Boot
 
-</p>
+✔ Node.js
 
-Unlocked Abilities
+✔ Express
 
-✔ OpenCV
+✔ FastAPI
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Jenkins
+
+✔ MySQL
+
+✔ PostgreSQL
+
+✔ MongoDB
+
+✔ Git
+
+✔ Linux
+
+✔ TensorFlow
+
+✔ PyTorch
 
 ✔ HuggingFace
 
-✔ Transformers
-
-✔ FAISS
-
-✔ NumPy
-
-✔ Pandas
-
-✔ Matplotlib
-
-✔ Scikit-Learn
-
----
-
-# 📜 QUEST LOG
-
-```
-Main Quest
-
-☑ Learn Programming
-
-☑ Build AI Projects
-
-☑ Learn Backend
-
-☐ Master Distributed Systems
-
-☐ Crack Dream Internship
-
-☐ Become System Design Wizard
-
-☐ Build SaaS Products
-
-☐ Reach 500+ DSA Problems
+✔ OpenCV
 ```
 
 ---
 
-# 🎖 ACHIEVEMENTS
-
-🏆 AI Resume Analyzer
-
-🏆 AI Mock Interview Platform
-
-🏆 Smart Parking System
-
-🏆 URL Shortener
-
-🏆 Government QA Chatbot
-
-🏆 Backend APIs
-
-🏆 Machine Learning Models
-
----
-
-# 🗺️ WORLD MAP
-
-```
-                 🏔️ SYSTEM DESIGN
-
-                        ▲
-
-                        │
-
-AI ◄──────── YOU ───────► BACKEND
-
-                        │
-
-                        ▼
-
-              ☁ CLOUD COMPUTING
-
-```
-
----
-
-# 📊 PLAYER STATS
+# 🛠 sudo htop
 
 ```text
-Strength      █████████░ 90%
+CPU Usage
 
-Intelligence  ██████████ 100%
+█████████░░░░░░░░ 55%
 
-Coding        ██████████ 100%
+Memory
 
-Debugging     █████████░ 92%
+███████████░░░░░ 72%
 
-Luck          ██░░░░░░░░ 20%
+Coding
 
-Coffee        ██████████ 100%
+████████████████ 100%
 
-Sleep         █░░░░░░░░░ 10%
+Coffee
+
+████████████████ 100%
+
+Sleep
+
+██░░░░░░░░░░░░░░ 12%
+
+Motivation
+
+████████████████ 100%
 ```
 
 ---
 
-# 🎯 CURRENT MISSIONS
+# 📁 tree ~/Projects
 
-- ⚔️ AI Mock Interview Platform
+```text
+Projects/
 
-- ⚔️ Data Engineering
+├── AI-Mock-Interview
 
-- ⚔️ Backend Development
+│ ├── Spring Boot
 
-- ⚔️ Kubernetes
+│ ├── React
 
-- ⚔️ System Design
+│ ├── PostgreSQL
+
+│ └── Docker
+
+│
+
+├── URL-Shortener
+
+│ ├── Redis
+
+│ ├── Kubernetes
+
+│ ├── Jenkins
+
+│ └── Docker
+
+│
+
+├── Resume-Analyzer
+
+│ ├── AI
+
+│ ├── OCR
+
+│ └── NLP
+
+│
+
+├── Government-QA
+
+│ ├── BERT
+
+│ ├── FAISS
+
+│ └── Streamlit
+
+│
+
+└── SmartParkingAI
+
+├── TensorFlow
+
+├── OpenCV
+
+└── CNN
+```
 
 ---
 
-# 🎮 EXPERIENCE BAR
+# 🔍 grep "Current Goals"
 
-```
-Backend        ██████████░░░░░ 75%
+```text
+✔ Learn Distributed Systems
 
-Java           █████████████░░ 85%
+✔ Master Backend
 
-Python         ███████████░░░░ 70%
+✔ Improve DSA
 
-AI             ██████████░░░░░ 65%
+✔ Crack Internship
 
-Docker         █████████░░░░░░ 60%
+✔ Build SaaS Products
 
-Kubernetes     ███████░░░░░░░░ 45%
-
-Cloud          █████░░░░░░░░░░ 30%
+✔ Open Source Contributions
 ```
 
 ---
 
-# 📈 GITHUB STATS
+# 🌐 ping github.com
+
+```text
+Pinging github.com...
+
+Reply from GitHub
+
+Status:
+ONLINE
+
+Latency:
+3 ms
+
+Connection:
+Stable
+
+Deployment:
+Ready
+```
+
+---
+
+# 🚀 docker ps
+
+```text
+CONTAINER ID     STATUS
+
+Backend API      Running
+
+Redis            Running
+
+PostgreSQL       Running
+
+Frontend         Running
+
+Coffee           Always Running ☕
+```
+
+---
+
+# 📈 git stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌎 MOST USED LANGUAGES
+# 📊 git language-stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 cronjob --daily
+
+```text
+Generating Contribution Snake...
+```
 
 <p align="center">
 
@@ -272,82 +330,101 @@ Cloud          █████░░░░░░░░░░ 30%
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 git achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=matrix&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🎲 RANDOM DEV QUOTE
+# 💬 fortune
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal"/>
 
 </p>
 
 ---
 
-# 😂 DAILY PROGRAMMER JOKE
+# 😂 sudo joke
 
 <p align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
 
 </p>
 
 ---
 
-# 🎵 NOW PLAYING
+# 🌍 env
 
-Replace YOUR_SPOTIFY_ID
+```bash
+GITHUB=https://github.com/AkshitPrashar14
 
-```html
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
+LINKEDIN=https://linkedin.com/in/YOUR_LINKEDIN
+
+EMAIL=your@email.com
 ```
 
 ---
 
-# 📬 GUILD CONTACT
+# ☕ sudo coffee
 
-<p align="center">
+```text
+Coffee Loaded...
 
-<a href="https://github.com/AkshitPrashar14">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+Productivity +100
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+Bug Resistance +80
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+Motivation +100
+```
 
 ---
 
-# 🎁 BONUS QUEST
+# 🎮 systemctl status developer
 
-If you've reached here...
+```text
+● developer.service
 
-⭐ Star one of my repositories!
+Loaded: yes
 
-🍴 Fork something interesting!
+Active: active (running)
 
-🤝 Let's build amazing things together.
+Backend ............ ✔
+
+AI ................. ✔
+
+Docker ............. ✔
+
+Learning ........... ✔
+
+Coffee ............. ✔
+
+Sleep .............. Warning
+
+Motivation ......... MAX
+```
 
 ---
 
+# 📡 exit
+
+```bash
+akshit@github:~$ logout
+
+Connection closed.
+
+Thanks for visiting.
+
+⭐ Don't forget to star your favorite repository!
+```
+
 <p align="center">
-
-## ⚔️ "Every commit grants XP."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
+````
