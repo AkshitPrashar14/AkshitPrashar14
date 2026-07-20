@@ -208,15 +208,15 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A8AFF&fire=FF2E97&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A8AFF&fire=FF2E97&currStreakLabel=00F5FF" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00F5FF&line=8A8AFF&point=FF2E97&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitPrashar14&theme=tokyo-night&bg_color=0d1117&color=00F5FF&line=8A8AFF&point=FF2E97&hide_border=true" width="90%"/>
 
 </div>
 
@@ -233,7 +233,7 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 ### `> contribution_snake.render()`
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/AkshitPrashar14/AkshitPrashar14/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -242,7 +242,7 @@ A resume intelligence tool that scores and critiques resumes against target role
 <details>
 <summary align="center"><b>🏆 Expand: Trophy Cabinet</b></summary>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 </details>
 
