@@ -1,210 +1,353 @@
-# 👋 Hey there! I'm Akshit Prashar
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;AI+%26+ML+Enthusiast;Data+Engineering+Learner;Always+Building+Something+Cool+🚀" alt="Typing SVG" />
+<!-- ========================================================= -->
+<!--                    RPG GITHUB PROFILE                     -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshitPrashar14&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AkshitPrashar14?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/AkshitPrashar14?style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Akshit%20Prashar&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20⚔️%20AI%20Explorer%20🤖%20Data%20Engineer%20📊&descAlignY=60"/>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=⚔️+Welcome+Adventurer!;Java+Backend+Developer;AI+%26+Machine+Learning;Building+Real+World+Projects;Grinding+DSA+Everyday;Always+Leveling+Up+🚀" />
+
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚔️ CHARACTER PROFILE
 
 ```yaml
-Name: Akshit Prashar
-Role: Computer Science Student
-Currently Learning:
-  - Backend Development
-  - Data Engineering
-  - Distributed Systems
-  - AI & Machine Learning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Dream Company:
-  - Uber 🚕
+🧑 Name: Akshit Prashar
 
-Fun Fact:
-  - I debug better after coffee ☕
+🎖 Class: Backend Mage
+
+🏹 Guild: Open Source
+
+🌍 Region: India
+
+⚡ Level: 21
+
+❤️ Health: ██████████ 100%
+
+☕ Mana: ██████████ Coffee Powered
+
+🎯 Current Quest:
+Become a World-Class Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🎒 INVENTORY
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### ☁ DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,aws" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-Python Libraries:
-
-* OpenCV
-* Scikit-Learn
-* Transformers
-* HuggingFace
-* Pandas
-* NumPy
-* Matplotlib
-* FAISS
+| Weapon | Status |
+|----------|--------|
+| ☕ Coffee | Equipped |
+| 💻 VS Code | Equipped |
+| 🧠 Curiosity | Legendary |
+| 🐛 Bugs | Infinite Spawn |
+| 🚀 GitHub | Active |
 
 ---
 
-# 🌟 Current Focus
+# 🛡️ SKILLS
 
-* 🧠 AI Mock Interview Platform
-* ⚡ Backend System Design
-* 📊 Data Engineering
-* ☁ Cloud & DevOps
-* 🚀 Building scalable applications
+## Languages
 
----
+<p>
 
-# 🎯 2026 Goals
-
-* ✅ Crack a Software Engineering Internship
-* ✅ Master Backend Development
-* ✅ Learn Distributed Systems
-* ✅ Build Production-Ready Projects
-* ✅ Reach 500+ DSA Problems
-* ✅ Contribute to Open Source
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Backend
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AkshitPrashar14/AkshitPrashar14/output/github-contribution-grid-snake.svg">
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+
 </p>
 
 ---
 
-# 🎮 Developer Dashboard
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux"/>
+
+</p>
+
+---
+
+## AI Arsenal
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+Unlocked Abilities
+
+✔ OpenCV
+
+✔ HuggingFace
+
+✔ Transformers
+
+✔ FAISS
+
+✔ NumPy
+
+✔ Pandas
+
+✔ Matplotlib
+
+✔ Scikit-Learn
+
+---
+
+# 📜 QUEST LOG
+
+```
+Main Quest
+
+☑ Learn Programming
+
+☑ Build AI Projects
+
+☑ Learn Backend
+
+☐ Master Distributed Systems
+
+☐ Crack Dream Internship
+
+☐ Become System Design Wizard
+
+☐ Build SaaS Products
+
+☐ Reach 500+ DSA Problems
+```
+
+---
+
+# 🎖 ACHIEVEMENTS
+
+🏆 AI Resume Analyzer
+
+🏆 AI Mock Interview Platform
+
+🏆 Smart Parking System
+
+🏆 URL Shortener
+
+🏆 Government QA Chatbot
+
+🏆 Backend APIs
+
+🏆 Machine Learning Models
+
+---
+
+# 🗺️ WORLD MAP
+
+```
+                 🏔️ SYSTEM DESIGN
+
+                        ▲
+
+                        │
+
+AI ◄──────── YOU ───────► BACKEND
+
+                        │
+
+                        ▼
+
+              ☁ CLOUD COMPUTING
+
+```
+
+---
+
+# 📊 PLAYER STATS
 
 ```text
-🟢 STATUS          : Coding
-☕ Coffee Level    : █████████░ 90%
-🐛 Bugs Remaining  : ███░░░░░░░ 30%
-🎯 Motivation      : ██████████ 100%
-🚀 Deployments     : Always on Friday 😅
+Strength      █████████░ 90%
+
+Intelligence  ██████████ 100%
+
+Coding        ██████████ 100%
+
+Debugging     █████████░ 92%
+
+Luck          ██░░░░░░░░ 20%
+
+Coffee        ██████████ 100%
+
+Sleep         █░░░░░░░░░ 10%
 ```
 
 ---
 
-# 🎵 Currently Playing
+# 🎯 CURRENT MISSIONS
+
+- ⚔️ AI Mock Interview Platform
+
+- ⚔️ Data Engineering
+
+- ⚔️ Backend Development
+
+- ⚔️ Kubernetes
+
+- ⚔️ System Design
+
+---
+
+# 🎮 EXPERIENCE BAR
+
+```
+Backend        ██████████░░░░░ 75%
+
+Java           █████████████░░ 85%
+
+Python         ███████████░░░░ 70%
+
+AI             ██████████░░░░░ 65%
+
+Docker         █████████░░░░░░ 60%
+
+Kubernetes     ███████░░░░░░░░ 45%
+
+Cloud          █████░░░░░░░░░░ 30%
+```
+
+---
+
+# 📈 GITHUB STATS
 
 <p align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID\&cover_image=true\&theme=novatorem)](https://spotify-github-profile.vercel.app)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ Random Dev Quote
+# 🌎 MOST USED LANGUAGES
 
 <p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 😂 Random Programming Joke
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/AkshitPrashar14/AkshitPrashar14/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 🎲 RANDOM DEV QUOTE
 
-<p align="left">
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
+
+</p>
+
+---
+
+# 😂 DAILY PROGRAMMER JOKE
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 NOW PLAYING
+
+Replace YOUR_SPOTIFY_ID
+
+```html
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
+```
+
+---
+
+# 📬 GUILD CONTACT
+
+<p align="center">
 
 <a href="https://github.com/AkshitPrashar14">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Motto
+# 🎁 BONUS QUEST
 
-> **"Build. Break. Learn. Repeat."**
+If you've reached here...
+
+⭐ Star one of my repositories!
+
+🍴 Fork something interesting!
+
+🤝 Let's build amazing things together.
 
 ---
 
 <p align="center">
 
-### ⭐ If you like my projects, don't forget to star them!
+## ⚔️ "Every commit grants XP."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </p>
-
