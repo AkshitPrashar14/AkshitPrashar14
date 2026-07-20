@@ -5,13 +5,12 @@
   for a backend engineer. Built with pure Markdown + HTML +
   public widget APIs. No external hosting required.
 
-  SETUP CHECKLIST (replace before publishing):
-  1. Replace every "YOUR_USERNAME" with your GitHub username.
-  2. Replace every "your-handle" in social links with your actual handles.
-  3. Replace "you@example.com" with your real email.
-  4. (Optional) Set up the contribution snake — see comment near
+  SETUP CHECKLIST:
+  1. All personal placeholders (GitHub, LinkedIn, LeetCode, email)
+     are already filled in for Akshit Prashar.
+  2. (Optional) Set up the contribution snake — see comment near
      the "LIVE ACTIVITY FEED" section for the 2-step GitHub Action.
-  5. (Optional) Set up WakaTime — see comment near "CODING METRICS".
+  3. (Optional) Set up WakaTime — see comment near "CODING METRICS".
   ============================================================
 -->
 
@@ -25,12 +24,12 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-8A8AFF?style=for-the-badge&logo=github&logoColor=0f0c29"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-FF2E97?style=for-the-badge&logo=gmail&logoColor=0f0c29"/></a>
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=0f0c29"/></a>
+<a href="https://linkedin.com/in/akshitprashar"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29"/></a>
+<a href="https://github.com/AkshitPrashar14"><img src="https://img.shields.io/badge/GITHUB-8A8AFF?style=for-the-badge&logo=github&logoColor=0f0c29"/></a>
+<a href="mailto:akshitprashar14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF2E97?style=for-the-badge&logo=gmail&logoColor=0f0c29"/></a>
+<a href="https://leetcode.com/Akshit_Prashar"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=0f0c29"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5FF&label=CONSOLE+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=AkshitPrashar14&style=for-the-badge&color=00F5FF&label=CONSOLE+VISITS"/>
 
 </div>
 
@@ -67,7 +66,7 @@ core_modules:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A8AFF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A8AFF&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
