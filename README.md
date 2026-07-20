@@ -116,17 +116,4 @@ A short, honest paragraph on your path — not a resume, a story. What pulled yo
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=6272A4" alt="Profile views">
-</p><!-- ===================================================== -->
-<!--           🚀 MISSION CONTROL README                   -->
-<!-- ===================================================== -->
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:03045E,30:0077B6,60:00B4D8,100:90E0EF&text=MISSION%20CONTROL&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
 </p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&center=true&width=900&color=90E0EF&lines=Mission+Control+Initialized...;Commander+Detected...;Loading+Projects...;Connecting+to+GitHub...;Launch+Sequence+Complete+🚀"/>
-
