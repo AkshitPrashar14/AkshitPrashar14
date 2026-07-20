@@ -1,326 +1,351 @@
 
 <!-- ========================================================= -->
-<!--                TERMINAL / HACKER PROFILE                  -->
+<!--              CYBERPUNK / NEON README                      -->
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=%24%20whoami&fontAlignY=40&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=AKSHIT.exe&fontSize=60&animation=twinkling&color=0:ff00ff,25:00f5ff,50:7b2ff7,100:00ff87"/>
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Developer+Environment...;Loading+Java+Backend...;Loading+AI+Modules...;Loading+Docker+Containers...;System+Ready+✔"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1200&color=00F7FF&center=true&width=900&lines=SYSTEM+BOOTING...;Loading+Backend+Modules...;Initializing+AI+Core...;Connecting+to+Cloud...;Developer+Online+✔"/>
+
 </p>
 
 ---
 
-# 🖥 Terminal
-
-```bash
-Last login: Today
-
-akshit@github:~$ whoami
-
-Akshit Prashar
-
-akshit@github:~$ cat role.txt
-
-Computer Science Student
-
-Backend Developer
-
-AI & Machine Learning Enthusiast
-
-Data Engineering Learner
-
-akshit@github:~$ echo $MISSION
-
-Become a world-class Software Engineer.
-```
-
----
-
-# 📂 ls -la skills/
+# ⚡ SYSTEM STATUS
 
 ```text
-backend/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AI/
+USER            : AKSHIT.exe
 
-Docker/
+STATUS          : ONLINE
 
-Kubernetes/
+MODE            : CYBERPUNK
 
-Java/
+POWER LEVEL     : ████████████████ 100%
 
-Python/
+COFFEE          : ████████████████ 100%
 
-NodeJS/
+BUGS            : ███░░░░░░░░ 18%
 
-Git/
+SLEEP           : ░░░░░░░░░░░ 5%
 
-Linux/
-
-SQL/
-
-MongoDB/
-
-SystemDesign/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 📄 cat about.md
+# 🤖 AI CORE
 
-```markdown
-Hi 👋
+```yaml
+Developer:
+  Name: Akshit Prashar
 
-I'm Akshit.
+Class:
+  Backend Engineer
 
-I enjoy building scalable backend systems,
-training AI models,
-learning distributed systems,
-and solving challenging problems.
+Secondary Module:
+  Artificial Intelligence
 
-Current Focus:
+Current Upgrade:
+  Distributed Systems
 
-• Backend Development
+Next Upgrade:
+  Cloud Architecture
 
-• AI Mock Interview Platform
-
-• Data Engineering
-
-• DevOps
-
-• System Design
+Dream Company:
+  Uber
 ```
 
 ---
 
-# ⚙ apt list --installed
+# 🌐 NETWORK CONNECTION
+
+```
+Connecting...
+
+█████████████████████
+
+CONNECTED
+
+Region : India
+
+Latency : 2ms
+
+Firewall : Disabled
+
+Motivation : MAXIMUM
+```
+
+---
+
+# ⚙ INSTALLED MODULES
+
+## Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,aws"/>
+
+</p>
+
+---
+
+## AI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+Additional Libraries
+
+```
+OpenCV
+
+Transformers
+
+HuggingFace
+
+Scikit Learn
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+FAISS
+```
+
+---
+
+# 🛰 ACTIVE MISSIONS
+
+```
+MISSION 001
+
+Develop scalable backend systems
+
+STATUS
+
+██████████░ 80%
+
+MISSION 002
+
+Master Kubernetes
+
+STATUS
+
+██████░░░░ 55%
+
+MISSION 003
+
+Crack Internship
+
+STATUS
+
+███████░░░ 65%
+
+MISSION 004
+
+Become Distributed Systems Engineer
+
+STATUS
+
+████░░░░░░ 40%
+```
+
+---
+
+# 🚀 PROJECT DATABASE
 
 ```text
-✔ Java
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ Python
+PROJECT_01
 
-✔ C++
+AI Mock Interview Platform
 
-✔ JavaScript
+STATUS
 
-✔ HTML
+ACTIVE
 
-✔ CSS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ Spring Boot
+PROJECT_02
 
-✔ Node.js
+Scalable URL Shortener
 
-✔ Express
+STATUS
 
-✔ FastAPI
+DEPLOYED
 
-✔ Docker
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ Kubernetes
+PROJECT_03
 
-✔ Jenkins
+Government QA Chatbot
 
-✔ MySQL
+STATUS
 
-✔ PostgreSQL
-
-✔ MongoDB
-
-✔ Git
-
-✔ Linux
-
-✔ TensorFlow
-
-✔ PyTorch
-
-✔ HuggingFace
-
-✔ OpenCV
-```
-
----
-
-# 🛠 sudo htop
-
-```text
-CPU Usage
-
-█████████░░░░░░░░ 55%
-
-Memory
-
-███████████░░░░░ 72%
-
-Coding
-
-████████████████ 100%
-
-Coffee
-
-████████████████ 100%
-
-Sleep
-
-██░░░░░░░░░░░░░░ 12%
-
-Motivation
-
-████████████████ 100%
-```
-
----
-
-# 📁 tree ~/Projects
-
-```text
-Projects/
-
-├── AI-Mock-Interview
-
-│ ├── Spring Boot
-
-│ ├── React
-
-│ ├── PostgreSQL
-
-│ └── Docker
-
-│
-
-├── URL-Shortener
-
-│ ├── Redis
-
-│ ├── Kubernetes
-
-│ ├── Jenkins
-
-│ └── Docker
-
-│
-
-├── Resume-Analyzer
-
-│ ├── AI
-
-│ ├── OCR
-
-│ └── NLP
-
-│
-
-├── Government-QA
-
-│ ├── BERT
-
-│ ├── FAISS
-
-│ └── Streamlit
-
-│
-
-└── SmartParkingAI
-
-├── TensorFlow
-
-├── OpenCV
-
-└── CNN
-```
-
----
-
-# 🔍 grep "Current Goals"
-
-```text
-✔ Learn Distributed Systems
-
-✔ Master Backend
-
-✔ Improve DSA
-
-✔ Crack Internship
-
-✔ Build SaaS Products
-
-✔ Open Source Contributions
-```
-
----
-
-# 🌐 ping github.com
-
-```text
-Pinging github.com...
-
-Reply from GitHub
-
-Status:
 ONLINE
 
-Latency:
-3 ms
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Connection:
-Stable
+PROJECT_04
 
-Deployment:
-Ready
+Smart Parking AI
+
+STATUS
+
+TRAINED
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 🚀 docker ps
+# 📡 RADAR
+
+```
+BACKEND
+
+████████████░░
+
+85%
+
+AI
+
+█████████░░░░
+
+72%
+
+SYSTEM DESIGN
+
+███████░░░░░
+
+55%
+
+DOCKER
+
+██████████░░
+
+78%
+
+KUBERNETES
+
+██████░░░░░░
+
+48%
+
+DSA
+
+█████████░░░
+
+70%
+```
+
+---
+
+# ⚡ POWER LEVEL
 
 ```text
-CONTAINER ID     STATUS
+Java
 
-Backend API      Running
+██████████████
 
-Redis            Running
+Python
 
-PostgreSQL       Running
+████████████
 
-Frontend         Running
+NodeJS
 
-Coffee           Always Running ☕
+███████████
+
+Spring Boot
+
+██████████
+
+TensorFlow
+
+█████████
+
+Docker
+
+██████████
+
+Cloud
+
+█████
+
+Debugging
+
+████████████████
 ```
 
 ---
 
-# 📈 git stats
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 git language-stats
+# 🌌 LANGUAGE MATRIX
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🐍 cronjob --daily
-
-```text
-Generating Contribution Snake...
-```
+# 🐍 BIO CIRCUIT
 
 <p align="center">
 
@@ -330,101 +355,90 @@ Generating Contribution Snake...
 
 ---
 
-# 🏆 git achievements
+# 🏆 ACHIEVEMENT MATRIX
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=matrix&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=discord&column=4&row=2"/>
 
 </p>
 
 ---
 
-# 💬 fortune
+# 💬 AI TRANSMISSION
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal"/>
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
 
 </p>
 
 ---
 
-# 😂 sudo joke
+# 😂 GLITCH LOG
 
 <p align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌍 env
+# 🌍 CONNECTION PORTS
 
-```bash
-GITHUB=https://github.com/AkshitPrashar14
+<p align="center">
 
-LINKEDIN=https://linkedin.com/in/YOUR_LINKEDIN
+<a href="https://github.com/AkshitPrashar14">
 
-EMAIL=your@email.com
-```
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
 
 ---
 
-# ☕ sudo coffee
+# 🔥 FINAL MESSAGE
 
 ```text
-Coffee Loaded...
+SYSTEM MESSAGE
 
-Productivity +100
+Technology evolves.
 
-Bug Resistance +80
+Skills evolve.
 
-Motivation +100
+Developers evolve.
+
+Never stop upgrading.
+
+BUILD.
+
+BREAK.
+
+LEARN.
+
+REPEAT.
 ```
 
 ---
-
-# 🎮 systemctl status developer
-
-```text
-● developer.service
-
-Loaded: yes
-
-Active: active (running)
-
-Backend ............ ✔
-
-AI ................. ✔
-
-Docker ............. ✔
-
-Learning ........... ✔
-
-Coffee ............. ✔
-
-Sleep .............. Warning
-
-Motivation ......... MAX
-```
-
----
-
-# 📡 exit
-
-```bash
-akshit@github:~$ logout
-
-Connection closed.
-
-Thanks for visiting.
-
-⭐ Don't forget to star your favorite repository!
-```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
-</p>
 
+# "THE FUTURE IS BUILT ONE COMMIT AT A TIME."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:ff00ff,30:00f5ff,60:7b2ff7,100:00ff87"/>
+
+</p>
