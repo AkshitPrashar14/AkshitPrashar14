@@ -308,10 +308,10 @@ JavaScript   ███░░░░░░░░░░░░░░░░░   14%
 
 Open to backend/infra roles, internships, and interesting distributed-systems problems.
 
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email%20Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Follow-0f0c29?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/-Compete-0f0c29?style=for-the-badge&logo=leetcode&logoColor=00F5FF"/></a>
+<a href="mailto:akshitprashar14@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/></a>
+<a href="https://linkedin.com/in/akshitprashar14"><img src="https://img.shields.io/badge/-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="https://github.com/AkshitPrashar14"><img src="https://img.shields.io/badge/-Follow-0f0c29?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
+<a href="https://leetcode.com/AkshitPrashar14"><img src="https://img.shields.io/badge/-Compete-0f0c29?style=for-the-badge&logo=leetcode&logoColor=00F5FF"/></a>
 
 </div>
 
