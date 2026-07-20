@@ -1,119 +1,324 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<!--
+  ============================================================
+  AKSHIT.SYS — Backend Command Console
+  A GitHub Profile README themed as a boot-up system dashboard
+  for a backend engineer. Built with pure Markdown + HTML +
+  public widget APIs. No external hosting required.
 
-<p align="center">
-  <em>"The unexamined life is not worth living." — Socrates</em>
-</p>
+  SETUP CHECKLIST (replace before publishing):
+  1. Replace every "YOUR_USERNAME" with your GitHub username.
+  2. Replace every "your-handle" in social links with your actual handles.
+  3. Replace "you@example.com" with your real email.
+  4. (Optional) Set up the contribution snake — see comment near
+     the "LIVE ACTIVITY FEED" section for the 2-step GitHub Action.
+  5. (Optional) Set up WakaTime — see comment near "CODING METRICS".
+  ============================================================
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6272A4&center=true&vCenter=true&width=500&lines=Building+things.;Breaking+things.;Thinking+about+why+things+work." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
+<!-- Animated capsule header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AKSHIT.SYS&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Command%20Console%20%E2%80%94%20Booting...&descAlignY=58&descSize=18&descColor=8A8AFF" />
 
----
+<!-- Typing boot sequence -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=780&lines=INITIALIZING+AKSHIT_PRASHAR.EXE...;LOADING+MODULE%3A+BACKEND_ENGINEERING+%5BOK%5D;LOADING+MODULE%3A+DISTRIBUTED_SYSTEMS+%5BOK%5D;LOADING+MODULE%3A+ARTIFICIAL_INTELLIGENCE+%5BOK%5D;TARGET+ACQUIRED%3A+SYSTEMS+THAT+SCALE+TO+MILLIONS;SYSTEM+READY." alt="Typing SVG" />
 
-### 🧠 A little philosophy before the code
+<br/>
 
-I like to think of software the way I think of ideas — nothing is ever finished, only refined. Every commit is a small argument for how the world *should* work. Some days I lean Stoic about my bugs (*focus on what you can control: the next line*), other days I just want the CI to pass.
+<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-8A8AFF?style=for-the-badge&logo=github&logoColor=0f0c29"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-FF2E97?style=for-the-badge&logo=gmail&logoColor=0f0c29"/></a>
+<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=0f0c29"/></a>
 
-> *"We do not learn from experience... we learn from reflecting on experience."* — John Dewey
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5FF&label=CONSOLE+VISITS"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
+
+## `> whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+identity:
+  name: "Akshit Prashar"
+  class: "Computer Science Engineering Student"
+  primary_directive: "Become a world-class backend engineer
+                       building software that scales to
+                       millions of users."
+  target_organization: "Uber"
+  status: "ACTIVELY_BUILDING"
+
+core_modules:
+  - backend_engineering
+  - artificial_intelligence
+  - data_engineering
+  - distributed_systems
+  - cloud_computing
+  - devops
+  - machine_learning
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A8AFF&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
+
+## `> system.skills --scan`
+
+<div align="center">
+
+### ⚙️ Core Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css&theme=dark" />
+
+### 🖥️ Backend Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark" />
+
+### 🗄️ Data Layer
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+### ☁️ Infra & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux&theme=dark" />
+
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-005CED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <details>
-<summary>💭 Click for a rotating thought experiment</summary>
-<br>
+<summary><b>📊 Expand: Proficiency Console (self-rated signal strength)</b></summary>
+<br/>
 
-**Ship of Theseus, but it's your codebase:**
-If you refactor every single line of a project over five years, is it still the same project? What actually persists — the code, the architecture, the intent, or just the repo name?
+| Module | Signal |
+|---|---|
+| Backend Architecture (Spring Boot / Node.js) | ████████████████░░░░ 80% |
+| Distributed Systems Concepts | ██████████████░░░░░░ 70% |
+| DevOps / CI-CD (Docker · K8s · Jenkins) | ██████████████░░░░░░ 70% |
+| Machine Learning / NLP | ███████████████░░░░░ 75% |
+| DSA / Problem Solving | ████████████████░░░░ 80% |
+| Cloud Fundamentals | █████████████░░░░░░░ 65% |
 
-*(No correct answer. That's the point.)*
+*Signal strength = self-assessed, continuously recalibrating.*
 
 </details>
 
----
+<br/>
 
-### 🛠️ What I actually build
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
+
+## `> ls ./missions --status=deployed`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 MISSION 01 — AI Mock Interview Platform
+**STATUS:** `DEPLOYED` 🟢
+
+An end-to-end platform simulating real interviews — speech-to-text answer capture, AI-driven resume analysis, and Gemini-powered feedback loops behind a secured, containerized backend.
+
+`Spring Boot` `React` `Docker` `PostgreSQL` `JWT` `Gemini` `Speech-to-Text` `Resume Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 MISSION 02 — Scalable URL Shortener
+**STATUS:** `DEPLOYED` 🟢
+
+A high-throughput URL shortening service engineered for scale — Redis caching, Dockerized microservice architecture, and a full Jenkins → Kubernetes → Helm deployment pipeline.
+
+`Node.js` `Express` `Redis` `MySQL` `Docker` `Jenkins` `Kubernetes` `Helm`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 MISSION 03 — Government QA Chatbot
+**STATUS:** `DEPLOYED` 🟢
+
+A semantic search-driven Q&A system over government documentation — BERT + Sentence Transformers for embeddings, FAISS for vector retrieval, served through a Streamlit interface.
+
+`Python` `BERT` `Sentence Transformers` `FAISS` `HuggingFace` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 MISSION 04 — Smart Parking AI
+**STATUS:** `DEPLOYED` 🟢
+
+A computer-vision system for real-time parking-slot occupancy detection using a custom CNN pipeline over live video feeds.
+
+`TensorFlow` `OpenCV` `CNN` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 MISSION 05 — AI Resume Analyzer
+**STATUS:** `DEPLOYED` 🟢
+
+A resume intelligence tool that scores and critiques resumes against target roles using LLM reasoning, wrapped in a fast, modern Next.js interface.
+
+`Next.js` `Tailwind` `OpenRouter` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ MISSION 06 — [Next Deployment]
+**STATUS:** `IN_PROGRESS` 🟡
+
+*Reserved slot — replace with your next build. The console always leaves room for what's coming.*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>💡 Tip: pin these repos on your GitHub profile so the cards above link straight to live code.</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
+
+## `> system.monitor --live`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A8AFF&fire=FF2E97&currStreakLabel=00F5FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00F5FF&line=8A8AFF&point=FF2E97&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================
+  LIVE ACTIVITY FEED (contribution snake) — OPTIONAL, needs setup:
+  1. In your profile repo, add .github/workflows/snake.yml using
+     the official action: https://github.com/Platane/snk
+  2. It will generate an SVG at a URL like below once the Action runs.
+  Until then, this section is safe to delete.
+============================================================ -->
+<div align="center">
+
+### `> contribution_snake.render()`
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br/>
 
 <details>
-<summary><b>⚡ Currently working on</b></summary>
-<br>
+<summary align="center"><b>🏆 Expand: Trophy Cabinet</b></summary>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</div>
+</details>
 
-- 🔭 **[Project Name]** — one sentence on what it does and why it exists
-- 🌱 Learning **[technology/skill]** because [genuine reason, not resume-padding]
-- 🤝 Open to collaborating on **[type of project]**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
+
+## `> quest_log --active`
+
+Ongoing objectives, not resume bullet points:
+
+- [x] Ship production-grade backend systems, not just working ones
+- [x] Get fluent in distributed systems fundamentals
+- [x] Sharpen DSA daily — consistency over cramming
+- [ ] Go deeper on AI/ML — from using models to understanding them
+- [ ] Master large-scale system design end-to-end
+- [ ] Contribute meaningfully to an open-source infra project
+- [ ] Land a role where "millions of users" isn't hypothetical
+
+<br/>
+
+<!-- ============================================================
+  CODING METRICS (WakaTime) — OPTIONAL, needs setup:
+  1. Create a free account at wakatime.com and install the plugin
+     for your editor.
+  2. Fork/use https://github.com/anmol098/waka-readme-stats to
+     auto-generate this block via GitHub Actions.
+  Replace the block below with the generated one, or delete this
+  section entirely if you'd rather not track coding time.
+============================================================ -->
+<details>
+<summary><b>⏱️ Expand: Coding Time Log (WakaTime placeholder)</b></summary>
+<br/>
+
+```text
+Python       ████████████░░░░░░░░   58%
+Java         ██████░░░░░░░░░░░░░░   28%
+JavaScript   ███░░░░░░░░░░░░░░░░░   14%
+```
+*Connect WakaTime to replace this with real, auto-updating data.*
 
 </details>
 
-<details>
-<summary><b>🧰 Tools of the trade</b></summary>
-<br>
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
 
-*(Swap these badges for your actual stack — full list at [shields.io](https://shields.io) and [simpleicons.org](https://simpleicons.org).)*
+<div align="center">
 
-</details>
+## `> system.log("thought_for_today")`
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 📊 The numbers, for those who like evidence
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
 
----
+## `> open --channel comms`
 
-### 🎲 Pick a rabbit hole
+<div align="center">
 
-<details>
-<summary>📚 What I'm reading</summary>
-<br>
+Open to backend/infra roles, internships, and interesting distributed-systems problems.
 
-- *[Book Title]* — [Author] — one line on why it's rewiring how you think
-- *[Book Title]* — [Author] — same
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email%20Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/></a>
+<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Follow-0f0c29?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
+<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/-Compete-0f0c29?style=for-the-badge&logo=leetcode&logoColor=00F5FF"/></a>
 
-</details>
+</div>
 
-<details>
-<summary>❓ A question I don't have a good answer to yet</summary>
-<br>
+<br/>
 
-*"[Insert a genuine open question you think about — technical, philosophical, or both. This is the most 'you' part of the README — don't skip it.]"*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=SYSTEM%20STANDING%20BY&fontColor=00F5FF&fontSize=24&animation=fadeIn" />
 
-Feel free to argue with me about it — open an issue, or find me at the links above.
-
-</details>
-
-<details>
-<summary>🗺️ How I got here</summary>
-<br>
-
-A short, honest paragraph on your path — not a resume, a story. What pulled you toward building things? What's a wrong turn that ended up mattering?
-
-</details>
-
----
-
-<p align="center">
-  <em>"I know that I know nothing" — and yet, here's a repo full of things I tried anyway.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=6272A4" alt="Profile views">
-</p>
+<div align="center">
+<sub>Compiled with intent. Deployed with ambition. — <b>Akshit Prashar</b></sub>
+</div>
