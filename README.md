@@ -222,13 +222,9 @@ A resume intelligence tool that scores and critiques resumes against target role
   2. It will generate an SVG at a URL like below once the Action runs.
   Until then, this section is safe to delete.
 ============================================================ -->
-<div align="center">
-
-### `> contribution_snake.render()`
-
-<img src="https://raw.githubusercontent.com/AkshitPrashar14/AkshitPrashar14/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## `> quest_log --active`
 
