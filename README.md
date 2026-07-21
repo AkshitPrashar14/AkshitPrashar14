@@ -66,8 +66,7 @@ core_modules:
 </td>
 <td width="40%" valign="top" align="center">
 
-[![Akshit's GitHub stats](https://github-stats-extended.vercel.app/api?username=AkshitPrashr14)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AkshitPrashar14&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=AkshitPrashar14&include_all_commits=true&theme=gruvbox_light)
 </td>
 </tr>
 </table>
