@@ -208,11 +208,6 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AkshitPrashar14&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=AkshitPrashar14&langs_count=4&theme=dark)
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitPrashar14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitPrashar14&theme=tokyo-night&bg_color=0d1117&color=00F5FF&line=8A8AFF&point=FF2E97&hide_border=true" width="90%"/>
 
