@@ -249,18 +249,6 @@ Ongoing objectives, not resume bullet points:
   Replace the block below with the generated one, or delete this
   section entirely if you'd rather not track coding time.
 ============================================================ -->
-<details>
-<summary><b>⏱️ Expand: Coding Time Log (WakaTime placeholder)</b></summary>
-<br/>
-
-```text
-Python       ████████████░░░░░░░░   58%
-Java         ██████░░░░░░░░░░░░░░   28%
-JavaScript   ███░░░░░░░░░░░░░░░░░   14%
-```
-*Connect WakaTime to replace this with real, auto-updating data.*
-
-</details>
 
 <br/>
 
