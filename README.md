@@ -230,19 +230,6 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 </div>
 
-<br/>
-
-<details>
-<summary align="center"><b>🏆 Expand: Trophy Cabinet</b></summary>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkshitPrashar14&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
-
 ## `> quest_log --active`
 
 Ongoing objectives, not resume bullet points:
