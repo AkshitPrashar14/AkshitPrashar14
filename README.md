@@ -206,7 +206,7 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitPrashar14&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A8AFF&fire=FF2E97&currStreakLabel=00F5FF" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AkshitPrashar14&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=AkshitPrashar14&langs_count=4&theme=dark)
 
 <br/><br/>
 
