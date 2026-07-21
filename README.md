@@ -66,7 +66,10 @@ core_modules:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A8AFF&text_color=c9d1d9" width="100%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AkshitPrashar14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A8AFF&text_color=c9d1d9"
+  width="100%"
+/>
 
 </td>
 </tr>
