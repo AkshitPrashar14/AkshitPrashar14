@@ -121,16 +121,6 @@ core_modules:
 
 </details>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
-
-
-<div align="center">
-<sub>💡 Tip: pin these repos on your GitHub profile so the cards above link straight to live code.</sub>
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=3&width=100%" />
 
