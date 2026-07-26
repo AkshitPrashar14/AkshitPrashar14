@@ -213,18 +213,6 @@ A resume intelligence tool that scores and critiques resumes against target role
 
 </div>
 
-<br/>
-
-<!-- ============================================================
-  LIVE ACTIVITY FEED (contribution snake) — OPTIONAL, needs setup:
-  1. In your profile repo, add .github/workflows/snake.yml using
-     the official action: https://github.com/Platane/snk
-  2. It will generate an SVG at a URL like below once the Action runs.
-  Until then, this section is safe to delete.
-============================================================ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitPrashar14/AkshitPrashar14/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## `> quest_log --active`
 
