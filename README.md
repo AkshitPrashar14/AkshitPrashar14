@@ -50,7 +50,6 @@ identity:
   primary_directive: "Become a world-class backend engineer
                        building software that scales to
                        millions of users."
-  target_organization: "Uber"
   status: "ACTIVELY_BUILDING"
 
 core_modules:
